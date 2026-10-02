@@ -1,0 +1,13 @@
+{
+  "name": "express-caching-workshop",
+  "version": "1.0.0",
+  "description": "Express application with layered architecture and cache middleware",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node --test tests/*.test.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
